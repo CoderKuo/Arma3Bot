@@ -8,5 +8,5 @@
 
 :heavy_check_mark: 查询服务器在线人数
 
-![](Arma3Bot.assets/QQ截图20220112171115-e58828f398e248519f7015183cec3c21.png)
+![](https://www.souts.cn/upload/2022/01/QQ20220112171115-c81af06e0b8d4118a92617b4ac15bb1e.png)
 
